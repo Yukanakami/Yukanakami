@@ -67,9 +67,6 @@ Here’s what’s in my toolbox:
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yukanakami&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ## 💬 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
