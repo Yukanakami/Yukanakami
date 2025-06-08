@@ -4,11 +4,10 @@
 👨🏼‍🎓 currently still studying media based computer science at SMKS Wira Harapan<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukanakami/Yukanakami/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yukanakami/Yukanakami/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Yukanakami/Yukanakami/output/github-snake.svg" />
 </picture>
-
 
 # 💫 About Me:
 🧠 I’m currently working on<br>A modern web-based inventory system for schools using PHP, Tailwind CSS, and MySQL.<br><br>🙌 I’m looking for help with<br>Improving API security and integrating real-time notifications using WebSockets.<br><br>🌱 I’m currently learning<br>Next.js, Python, C#, C++ and advanced Git workflows for better project scalability.<br><br>💬 Ask me about<br>Building full-stack web apps, Tailwind UI tricks, or anything about project structure in PHP.<br><br>⚡ Fun fact<br>I love debugging late at night while drinking AMERICANOO - productivity ON FIREEE!
@@ -37,8 +36,3 @@
 [![](https://visitcount.itsvg.in/api?id=Yukanakami&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yukanakami/Yukanakami/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yukanakami/Yukanakami/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Yukanakami/Yukanakami/output/github-snake.svg" />
-</picture>
