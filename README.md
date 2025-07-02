@@ -1,4 +1,4 @@
-<img src="#" alt="GitHub Banner" width="100%" />
+<img src="" alt="GitHub Banner" width="100%" />
 
 # 👋🏼 Well Hello There, I'm Maheka!
 I’m a passionate web developer and student at **SMKS Wira Harapan**, diving deep into the world of **media-based computer science**. I love turning coffee into code and ideas into interactive web apps.
