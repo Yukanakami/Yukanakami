@@ -14,7 +14,7 @@ I’m a passionate web developer and student at **SMKS Wira Harapan**, diving de
 ## 💻 What I’m Up To
 
 🧠 **Currently Building**  
-A modern school inventory system with **PHP**, **Tailwind CSS**, and **MySQL**. Clean code, clean UI, cleaner functionality.
+just making a wev for practice
 
 🧩 **Looking to Learn**  
 Currently sharpening my skills in **Next.js**, **Python**, **C#**, and **C++** – always chasing that next “Aha!” moment.
