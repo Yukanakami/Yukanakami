@@ -59,22 +59,10 @@ Here’s what’s in my toolbox:
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yukanakami&theme=tokyonight&show_icons=true&hide_border=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Yukanakami&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukanakami&theme=tokyonight&layout=compact&hide_border=false)
-
 ---
 
 ## 💬 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-## 🚀 Most Active Projects
-![](https://github-contributor-stats.vercel.app/api?username=Yukanakami&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Yukanakami&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
