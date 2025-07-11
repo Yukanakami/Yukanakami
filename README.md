@@ -1,5 +1,6 @@
 <img src="github-header-image.png" alt="GitHub Banner" width="100%" />
 
+
 # 👋🏼 Well Hello There, I'm Maheka!
 I’m a passionate web developer and student at **SMKS Wira Harapan**, diving deep into the world of **media-based computer science**. I love turning coffee into code and ideas into interactive web apps.
 
@@ -67,4 +68,4 @@ Here’s what’s in my toolbox:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<img src="github-header-image.png" alt="GitHub Banner" width="100%" />
+<img src="github-lowerimage.png" alt="GitHub Banner" width="100%" />
