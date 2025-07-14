@@ -18,7 +18,7 @@ I’m a passionate web developer and student at **SMKS Wira Harapan**, diving de
 just making a web for practice
 
 🧩 **Looking to Learn**  
-Currently sharpening my skills in **Next.js**, **Python**, **C#**, and **C++** – always chasing that next “Nahhhh” moment.
+Currently sharpening my skills in **Next.js**, **Python**, **C#**, and **C++**  always chasing that next “Nahhhh” moment.
 
 💡 **Curious About**  
 API security, WebSocket integration, and scaling web projects with better Git workflows.
